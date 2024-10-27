@@ -1,0 +1,8 @@
+This is a sample text file to be uploaded to Amazon S3.
+It contains some example content to demonstrate the upload process.
+
+- Line 1: Sample data
+- Line 2: More sample data
+- Line 3: Even more sample data
+
+End of file.
